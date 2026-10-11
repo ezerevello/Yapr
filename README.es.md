@@ -7,7 +7,7 @@
 <p align="center">
   <img width="250" alt="1" src="https://github.com/user-attachments/assets/db41047c-ff4c-411b-973c-5408208d68bb" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="250" alt="2" src="https://github.com/user-attachments/assets/48291ab7-7d22-412d-acb9-a1723f348323" />
+  <img width="921" height="2048" alt="2" src="https://github.com/user-attachments/assets/428f2983-ab0d-4bc5-8101-93cd294f89dd" />
 </p>
 
 Yapr convierte tus notas de voz en documentos Markdown estructurados. Salís de una reunión, una visita o simplemente tenés una idea dando vueltas: grabás un audio divagando todo lo que quieras, y el bot te devuelve un archivo `.md` con todo ordenado en secciones claras.
