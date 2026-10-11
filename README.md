@@ -7,7 +7,7 @@ English · **[Español](README.es.md)**
 <p align="center">
   <img width="250" alt="1" src="https://github.com/user-attachments/assets/db41047c-ff4c-411b-973c-5408208d68bb" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="250" alt="2" src="https://github.com/user-attachments/assets/48291ab7-7d22-412d-acb9-a1723f348323" />
+  <img width="921" height="2048" alt="2" src="https://github.com/user-attachments/assets/e79f539d-10c9-4daa-ae0d-8ae1852d8f1e" />
 </p>
 
 
